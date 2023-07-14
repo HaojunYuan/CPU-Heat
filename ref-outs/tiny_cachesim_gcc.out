@@ -1,0 +1,32 @@
+SIMULATION CONFIGURATION
+Fetch width:  2
+Physical Registers:  64
+ROB entries:  96
+Num. ALU FUs: 1
+Num. MUL FUs: 1
+Num. LSU FUs: 1
+Num. SchedQ entries per FU: 2
+Misses:   enabled
+SETUP COMPLETE - STARTING SIMULATION
+
+SIMULATION OUTPUT
+Cycles:                     1872246
+Trace instructions:         2273937
+Fetched instructions:       2273937
+Retired instructions:       2273937
+I-Cache misses:             99
+D-Cache read misses:        577
+D-Cache reads:              570128
+Store Buffer hits:          9611
+Read AAT:                   1.993
+Branch Mispredictions:      1628
+Stall cycles due to PREGs:  0
+Stall cycles due to ROB:    0
+Cycles with no fires:       246701
+Max DispQ usage:      14610
+Average DispQ usage:  994.130
+Max SchedQ usage:     6
+Average SchedQ usage: 5.959
+Max ROB usage:        15
+Average ROB usage:    8.258
+IPC:                  1.215
